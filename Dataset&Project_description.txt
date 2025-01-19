@@ -1,0 +1,1 @@
+The dataset and the project description can be found at https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
